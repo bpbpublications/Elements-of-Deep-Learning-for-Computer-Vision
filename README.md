@@ -1,2 +1,2 @@
-# -Fundamentals-of-Deep-Learning-and-Computer-Vision-
-"Fundamentals of Deep Learning and Computer Vision", published by BPB Publications
+# -Elements of Deep Learning for Computer Vision-
+"Elements of Deep Learning for Computer Vision", published by BPB Publications
